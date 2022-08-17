@@ -108,7 +108,7 @@ params:
       enable: true
       name: "Resume"
       url: "#"
-      download: true 
+      download: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
